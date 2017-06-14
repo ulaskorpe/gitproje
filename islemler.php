@@ -12,6 +12,9 @@ public function cikar($x,$y){
 	return $x-$y;
 }
 
+public function kalan($x,$y){
+	return $x%$y;
+}
 
 }
 
