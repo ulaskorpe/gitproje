@@ -1,2 +1,0 @@
-xzxz
-bişiler değiştir 
